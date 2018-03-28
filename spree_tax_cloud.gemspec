@@ -13,7 +13,7 @@ Gem::Specification.new do |s|
 
   s.required_ruby_version = '>= 1.9.3'
   
-  s.add_dependency "solidus", [">= 2.1"]
+  s.add_dependency "solidus", [">= 2.4"]
 
   s.add_runtime_dependency 'savon', '~> 2.5.1'
   s.add_runtime_dependency 'tax_cloud', '~> 0.3.0'
